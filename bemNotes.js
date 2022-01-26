@@ -19,6 +19,5 @@
 
 // remember is-active must be chained to the Element and never alone in CSS, or there will be scope issues. Example:
 // CSS.....       .navbar__link.is-active {}
-
 .navbar__link.is-active {
 }
